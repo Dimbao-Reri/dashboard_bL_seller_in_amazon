@@ -2,3 +2,5 @@
 Dashboard criado dentro do Bootcamp Dio 
 
 Este Dashboard foi criado a partir de dados coletados em banco de dados públicos. Contém dados de vendas da empresa BL que é uma pequena empresa de produtos de couro que vende seus produtos na Amazon.  Nos últimos meses, sofreu algumas perdas devido a devoluções de pedidos. Desta forma fiz um breve painel demonstrando os números de vendas e status de devolução.
+
+Um adendo importante, por não possuir excel instalado na máquina atualmente, criei tudo dentro das limitações do excel online.
